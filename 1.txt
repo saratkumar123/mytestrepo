@@ -2,3 +2,5 @@ hi my name is
 git
 i am a repository
 is there any changes
+push the modify
+add the modify
